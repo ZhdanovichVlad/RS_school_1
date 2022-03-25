@@ -1,3 +1,4 @@
+# Данный проект выполнен в рамках прохождения курса по DS в онлайн школе RS school
 # Materials
 
 If you were successful with [#3 Linear Regression](../3_linear_regression) assignment you may find that module very easy. You should be already familiar with most of the concepts covered here. If not - don't worry! We have a bunch of cool videos for you to study regularization and consolidate your knowledge on a practical assignment.
